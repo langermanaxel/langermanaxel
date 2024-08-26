@@ -8,7 +8,7 @@ Soy un Full Stack Developer, apasionado del desarrollo web y con una mentalidad 
 - 📫 Contacto: axellangerman@yahoo.com
 
 ### Habilidades
-- **Habilidades Técnicas:** HTML, CSS, Java, JavaScript, Python, PHP, Golang, SQL, MongoDB, Bootstrap, React, Node.js, Express, Spring Boot
+- **Habilidades Técnicas:** Golang, MySQL, MongoDB, PostgreSQL
 - **Herramientas:** Git, Docker, VS Code, Postman
 
 ### Proyectos Destacados
