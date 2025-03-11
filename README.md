@@ -12,7 +12,16 @@ Soy Desarrollador Backend con experiencia en Golang y un fuerte deseo de aprende
 - **Herramientas:** Git, Docker, VS Code, Postman
 
 ### Proyectos Destacados
-- [Proyecto 1](https://github.com/langermanaxel/go-jwt-project): Breve descripción del proyecto.
+- [Proyecto 1](https://github.com/langermanaxel/go-jwt-project): 
+  - API REST-FUL para la autenticación y autorización de usuarios 
+    - 8 de marzo al 11 de marzo
+
+Desarrollé una API REST-FUL para la autenticación y autorización de usuarios utilizando JSON Web Tokens (JWT) en Go con el framework Gin.
+Implementé autenticación JWT para asegurar las rutas de la API, garantizando que solo los usuarios autenticados puedan acceder a ciertas funcionalidades.
+Aprendí a estructurar un proyecto de backend desde cero, manejar base de datos no relacionales e  implementar autenticación.
+Optimizaciones y resultados:
+- Reduje el tiempo de respuesta de la API  optimizando las consultas a la base de datos.
+Tecnologías utilizadas: Golang, MongoDB, GIN, JWT, Git
 - [Proyecto 2](https://github.com/tuusuario/proyecto2): Breve descripción del proyecto.
 - [Proyecto 3](https://github.com/tuusuario/proyecto3): Breve descripción del proyecto.
 
