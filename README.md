@@ -12,7 +12,7 @@ Soy Desarrollador Backend con experiencia en Golang y un fuerte deseo de aprende
 - **Herramientas:** Git, Docker, VS Code, Postman
 
 ### Proyectos Destacados
-- [Proyecto 1](https://github.com/tuusuario/proyecto1): Breve descripción del proyecto.
+- [Proyecto 1](https://github.com/langermanaxel/go-jwt-project): Breve descripción del proyecto.
 - [Proyecto 2](https://github.com/tuusuario/proyecto2): Breve descripción del proyecto.
 - [Proyecto 3](https://github.com/tuusuario/proyecto3): Breve descripción del proyecto.
 
