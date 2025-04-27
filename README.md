@@ -25,6 +25,7 @@ Soy Desarrollador Backend con experiencia en Golang y un fuerte deseo de aprende
 - [Proyecto 2](https://github.com/langermanaxel/go-ecommerce):
   - Ecommerce API en Go
     - 10 de marzo al 25 de marzo
+    
       Desarrollé una API REST-FUL para un sistema de ecommerce utilizando Go con el framework Gin. Implementé
       funcionalidades clave como la gestión de productos, usuarios, y órdenes, garantizando una arquitectura escalable y
       mantenible. Aprendí a integrar múltiples servicios y tecnologías para crear una solución completa de ecommerce.
