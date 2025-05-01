@@ -1,7 +1,7 @@
 ## ¡Hola! Soy Axel Langerman 👋
 
 ### Sobre mí
-Soy Desarrollador Backend con experiencia en Golang y un fuerte deseo de aprender y crecer en el campo del desarrollo de software. Al tener buenas bases de lógica y programación puedo adaptarme al aprendizaje de nuevos lenguajes y entornos de trabajo dinámicos y desafiantes.
+Soy Desarrollador Backend con experiencia en Golang y un gran entusiasmo por seguir aprendiendo y creciendo en el mundo del desarrollo de software. Gracias a mis sólidas bases en lógica y programación, me adapto con facilidad a nuevos lenguajes, tecnologías y entornos de trabajo dinámicos y desafiantes.
 
 - 🌍 Ubicación: Santa Cruz, Argentina
 - 💼 Actualmente: Buscando oportunidades como Backend Developer
