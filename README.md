@@ -57,5 +57,24 @@ Soy Desarrollador Backend con experiencia en Golang y un gran entusiasmo por seg
           Autenticación: Flask-JWT, CSRFProtect
           Correo: Flask-Mail
 
+- [Proyecto 4](https://github.com/langermanaxel/orders-project):
+  - Sistema de Pedidos Online para Cafeterías
+    - 27 de octubre al 03 de noviembre
+
+      Es una aplicación web desarrollada para cafeterías y pequeños negocios que desean digitalizar y automatizar la gestión de pedidos. Permite a los clientes realizar pedidos directamente         desde la web, mientras que el administrador los recibe en tiempo real a través de Telegram, facilitando una comunicación rápida y eficiente.
+      La plataforma incluye un panel de administración seguro, autenticación con JWT, y un diseño adaptable con modo claro y oscuro automático, garantizando una experiencia moderna tanto para       el usuario como para el administrador.
+
+      ⚙️ Tecnologías utilizadas
+
+          Backend: Python 3, Flask, Flask-JWT-Extended, SQLAlchemy
+          Base de datos: SQLite
+          Frontend: HTML + CSS (modo claro/oscuro automático)
+          Integraciones: Telegram Bot API
+          Configuración: Variables de entorno (.env)
+          Entorno: CLI personalizada de Flask para inicializar la base
+
+      📦 Objetivo:
+        Ofrecer una herramienta práctica, ligera y personalizable para negocios locales que busquen mejorar su atención al cliente y centralizar la gestión de pedidos desde un solo lugar.
+
 ### Conecta conmigo
 - [LinkedIn](https://www.linkedin.com/in/axel-langerman/)
