@@ -8,8 +8,8 @@ Soy Desarrollador Backend con experiencia en Golang y un gran entusiasmo por seg
 - 📫 Contacto: axellangerman@yahoo.com
 
 ### Habilidades
-- **Habilidades Técnicas:** Golang, MySQL, MongoDB, PostgreSQL, SQLite
-- **Herramientas:** Git, Docker, VS Code, Postman
+- **Habilidades Técnicas:** Golang, Gin, Gorm , Python, Flask, SQLAchemy, Peewee, MySQL, MongoDB, PostgreSQL, SQLite
+- **Herramientas:** Git, Docker, VS Code, Postman, Cursor, ChatGPT, Github, Render
 
 ### Proyectos Destacados
 - [Proyecto 1](https://github.com/langermanaxel/go-jwt-project): 
