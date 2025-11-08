@@ -32,7 +32,30 @@ Soy Desarrollador Backend con experiencia en Golang y un gran entusiasmo por seg
       **Optimizaciones y resultados:**
         - Mejoré el rendimiento de la API optimizando las consultas a la base de datos y utilizando técnicas de caching.
         - **Tecnologías utilizadas:** Golang, MongoDB, Gin, JWT, Git
-- [Proyecto 3](https://github.com/tuusuario/proyecto3): Breve descripción del proyecto.
+- [Proyecto 3](https://github.com/langermanaxel/stock-project):
+  - Stock Management System
+    - 22 de septiembre al 27 de octubre
+
+      Aplicación web desarrollada con Flask para la gestión integral de inventario, compras, ventas y reportes.
+      Diseñada para pequeñas y medianas empresas que buscan automatizar el control de stock y optimizar sus operaciones comerciales.
+
+      ⚙️ Características principales
+
+          Autenticación y autorización: Sistema de login con roles de usuario (USER, ADMIN) y manejo seguro de sesiones.
+          Gestión de productos: CRUD completo con actualización automática de stock.
+          Compras: Registro de compras que incrementan el inventario.
+          Ventas: Control de ventas con validación del stock disponible.
+          Reportes: Dashboard con métricas de ventas y productos más vendidos.
+          Seguridad: Protección CSRF, contraseñas cifradas y validación de formularios.
+          Recuperación de contraseñas: Envío de correos automáticos para restablecimiento de cuenta.
+
+      🛠️ Tecnologías utilizadas
+
+          Backend: Flask (Python)
+          Base de datos: SQLite
+          Frontend: HTML, CSS, Jinja2
+          Autenticación: Flask-JWT, CSRFProtect
+          Correo: Flask-Mail
 
 ### Conecta conmigo
 - [LinkedIn](https://www.linkedin.com/in/axel-langerman/)
