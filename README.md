@@ -76,5 +76,19 @@ Soy Desarrollador Backend con experiencia en Golang y Python, y un gran entusias
       📦 Objetivo:
         Ofrecer una herramienta práctica, ligera y personalizable para negocios locales que busquen mejorar su atención al cliente y centralizar la gestión de pedidos desde un solo lugar.
 
+- [Proyecto 5](https://github.com/langermanaxel/coffee-scraper):
+  - ☕ Coffee Scraper — Extracción inteligente de datos sobre café
+    - 20 de noviembre al 25 de noviembre
+    
+      Desarrollé Coffee Scraper, una herramienta en Python diseñada para extraer información pública relacionada con el mundo del café desde distintos sitios web. Implementé un sistema       modular de scraping capaz de recopilar datos de productos, cafeterías, precios y reseñas, permitiendo exportarlos en formatos estándar como CSV y JSON. También incorporé plantillas HTML de prueba y un sistema de configuración mediante archivos YAML/JSON para adaptar rápidamente los objetivos y parámetros de extracción.
+
+      Optimizaciones y resultados:
+
+          Organicé el scraper en módulos independientes para garantizar una arquitectura escalable, mantenible y fácil de extender.
+          Preparé el proyecto para ejecución tanto local como en contenedores Docker, mejorando la portabilidad.
+          Añadí soporte flexible de configuración, facilitando su uso en distintos tipos de scraping.
+
+      Tecnologías utilizadas: Python, Requests, BeautifulSoup4, Pandas, PyYAML, HTML, Docker.
+
 ### Conecta conmigo
 - [LinkedIn](https://www.linkedin.com/in/axel-langerman/)
