@@ -90,5 +90,14 @@ Soy Desarrollador Backend con experiencia en Golang y Python, y un gran entusias
 
       Tecnologías utilizadas: Python, Requests, BeautifulSoup4, Pandas, PyYAML, HTML, Docker.
 
+- [Proyecto 6](https://github.com/langermanaxel/review-classifier):
+  - ☕ Review Classifier — NLP + Machine Learning + Dashboard 📈
+    - 25 de noviembre al 27 de noviembre
+    
+    Clasificador de reseñas para cafeterías, desarrollado con Python, scikit-learn, NLP y Streamlit, capaz de analizar comentarios de clientes y determinar si son positivos o negativos.
+    Incluye un dashboard interactivo con métricas, nubes de palabras y tendencia temporal.
+
+      Tecnologías utilizadas: Python, scikit-learn, NLP, Streamlit, Pandas
+
 ### Conecta conmigo
 - [LinkedIn](https://www.linkedin.com/in/axel-langerman/)
