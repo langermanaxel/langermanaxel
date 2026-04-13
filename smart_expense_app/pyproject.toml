@@ -1,0 +1,14 @@
+[project]
+name = "control-gastos-inteligente"
+version = "0.1.0"
+description = "App móvil/web con Flet para registrar gastos, clasificarlos y recomendar ahorros."
+requires-python = ">=3.10"
+dependencies = [
+  "flet>=0.28.0",
+]
+
+[tool.flet]
+org = "com.langermanaxel"
+product = "Control de Gastos Inteligente"
+company = "Langerman Axel"
+copyright = "Copyright (C) 2026"
